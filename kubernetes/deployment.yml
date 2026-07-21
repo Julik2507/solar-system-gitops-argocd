@@ -17,7 +17,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: julian2507/solar-system:726351057fdae9e1a84f7075d17e7f9190a34efc
+      - image: julian2507/solar-system:e00f2f96037a7c296535ae9dd3fa7b5ab244ce15
         imagePullPolicy: Always
         name: solar-system
         ports:
